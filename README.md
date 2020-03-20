@@ -1,2 +1,0 @@
-# VueJSQL
-Created with CodeSandbox
